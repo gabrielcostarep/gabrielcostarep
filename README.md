@@ -2,9 +2,9 @@
 
 <ul>
   <li>🖥️ I'm a beginner in technology.
-  <li>🎯 Focused on learning everything about Web/Mobile Development.
-  <li>🥇 Learning HTML, CSS and JavaScript.
-  <li>🚀 I intend to become a professional in technologies React, React Native, NodeJS.
+  <li>🎯 Focused on learning everything about Web Development.
+  <li>🥇 Learning ReactJS and NextJS.
+  <li>🚀 I intend to become a professional in technologies React, NextJS and NodeJS.
 </ul>
 
   ##
