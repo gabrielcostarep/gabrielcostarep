@@ -2,8 +2,7 @@
 
 <ul>
   <li>🎯 Focused on learning everything about Web Development.
-  <li>🥇 Learning ReactJS and NextJS.
-  <li>🚀 I intend to become a professional in technologies React, NextJS and NodeJS.
+  <li>🥇 Learning ReactJS, NextJS and NodeJS.
 </ul>
 
   ##
