@@ -1,8 +1,9 @@
-## Hello World, I'm Gabriel Costa
+## Hello World, Meu nome é Gabriel Costa
 
 <ul>
-  <li>🎯 Focused on learning everything about Web Development.
-  <li>🥇 Learning ReactJS, NextJS and NodeJS.
+  <li>🎯 Focado em estudar tudo sobre desenvolvimento nativo IOS.
+  <li>💻 Desenvolvo utilizando NextJS, ReactJS, TypeScript e NodeJS.
+  <li>🥇 Aprendendo SwiftUI.
 </ul>
 
   ##
@@ -14,9 +15,11 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="TypeScrip" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
