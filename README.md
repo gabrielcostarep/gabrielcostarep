@@ -2,7 +2,7 @@
 
 <ul>
   <li>🎯 Focado em estudar tudo sobre desenvolvimento nativo IOS.
-  <li>💻 Desenvolvo utilizando NextJS, ReactJS, TypeScript e NodeJS.
+  <li>💻 Desenvolvo utilizando NextJS, ReactJS, TypeScript e Django.
   <li>🥇 Aprendendo SwiftUI.
 </ul>
 
