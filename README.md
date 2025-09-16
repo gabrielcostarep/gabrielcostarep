@@ -3,7 +3,6 @@
 <ul>
   <li>🎯 Focado em estudar tudo sobre desenvolvimento Web e Mobile.
   <li>💻 Desenvolvo utilizando ReactJS, TypeScript, Django e SwiftUI.
-  <li>🥇 Aprendendo PHP.
 </ul>
 
   ##
