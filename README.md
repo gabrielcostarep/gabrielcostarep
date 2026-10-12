@@ -55,7 +55,7 @@ Graduando em Tecnologia em Sistemas para Internet e Técnico em Mecatrônica pel
 
 - 🧪 **[Big Data Pipeline & Dashboard em Infraestrutura](https://geotech-fatigue-dashboard-acej7cuw8m9fpwdcnvc5nb.streamlit.app/)**  
   Pipeline de processamento vetorizado para +20M de registros mecânicos brutos com compressão colunar Parquet e dashboard público acelerado por hardware (WebGL).
-- 🎓 **Predição de Evasão Escolar (Machine Learning)**  
+- 🎓 **[Predição de Evasão Escolar (Machine Learning)](https://colab.research.google.com/drive/1CZme2YNMNIuL7oDRU4abTkfLoqSSH7Ek?usp=sharing)**  
   Fluxo automatizado de pré-processamento, tratamento de dados ausentes, balanceamento sintético de classes (SMOTE) e modelagem com XGBoost atingindo 80% de F1-Score.
 - ⚙️ **Auditoria Assíncrona PlaforEdu (ETL/Automação)**  
   Extrator assíncrono em Python (`aiohttp`) para validação massiva de integridade de centenas de cursos distribuídos em 21 domínios com integração no Google Sheets.
